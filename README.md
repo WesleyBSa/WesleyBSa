@@ -20,6 +20,8 @@
   <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wesley-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
+</div>
 </div>
   
   ##
