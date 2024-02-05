@@ -4,8 +4,8 @@
 
 - 🖥️ Trabalho atualmente com suporte técnico e administração de redes.
 - 👨🏾‍💻 Estudando e desenvolvendo pequenos projetos com javaScript.
-- 📚 Estudante do último semestre do curso tecnologo em Analise e Desenvolvimento de Sistemas e iniciando o curso bacharelado em Sistemas de Informação.
-- 😀 Entusiasta do front-end.
+- 📚 Estudante do 3° semestre do curso bacharelado em Sistemas de Informação.
+- 😀 Entusiasta do desenvolvimento web.
 - 🎮 Apaixonado por desenvolvimento de games.
 - 👨🏾‍💻 Stacks: html/css/javascript/node.js
 - ✉️ Contate-me: batistawesley948@gmail.com
