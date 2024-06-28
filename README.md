@@ -7,7 +7,7 @@
 - 📚 Estudante do 4° semestre do curso bacharelado em Sistemas de Informação.
 - 🌐 Desenvolvedor Web.
 - 🎮 Apaixonado por desenvolvimento de games.
-- 👨🏾‍💻 Stacks: JavaScript/Node.js/Go Lang/Next.Js/Nest.Js
+- 👨🏾‍💻 Stacks: JavaScript/Node.Js/Go Lang/Next.Js/Nest.Js
 - ✉️ Contate-me: batistawesley948@gmail.com
 
 <div>
@@ -32,6 +32,8 @@
 
 <div> 
   <a href="https://instagram.com/wesleysantana077" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatobatistawesley948@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-batista-74b7a1198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
