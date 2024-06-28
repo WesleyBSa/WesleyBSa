@@ -5,9 +5,9 @@
 - 🖥️ Trabalho atualmente com suporte técnico e administração de redes.
 - 👨🏾‍💻 Estudando e desenvolvendo pequenos projetos com JavaScript, Go e seus respectivos ecossistemas.
 - 📚 Estudante do 4° semestre do curso bacharelado em Sistemas de Informação.
-- 😀 Entusiasta do desenvolvimento web.
+- 🌐 Desenvolvedor Web.
 - 🎮 Apaixonado por desenvolvimento de games.
-- 👨🏾‍💻 Stacks: HTML/CSS/JavaScript/Node.js
+- 👨🏾‍💻 Stacks: JavaScript/Node.js/Go Lang/Next.Js/Nest.Js
 - ✉️ Contate-me: batistawesley948@gmail.com
 
 <div>
@@ -22,7 +22,7 @@
   <img align="center" alt="Wesley-NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Wesley-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Wesley-Nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Wesley-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Wesley-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
