@@ -1,6 +1,6 @@
 ### Oii! Eu sou o Wesley Santana.👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#08088A&text-shadow: 7px 2px 7px rgba(0,0,0,0.6);&width=450&lines=Olá,+tudo+Bem?;Seja+bem+vindo+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#08088A&text-shadow:7px2px7pxrgba(0,0,0,0.6);&width=450&lines=Olá,+tudo+Bem?;Seja+bem+vindo+ao+meu+Github!)](https://git.io/typing-svg)
 
 - 🖥️ Trabalho atualmente com suporte técnico e administração de redes.
 - 👨🏾‍💻 Estudando e desenvolvendo pequenos projetos com JavaScript, Go e seus respectivos ecossistemas.
@@ -32,8 +32,6 @@
 
 <div> 
   <a href="https://instagram.com/wesleysantana077" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatobatistawesley948@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-batista-74b7a1198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
