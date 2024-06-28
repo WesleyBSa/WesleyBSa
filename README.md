@@ -23,7 +23,7 @@
   <img align="center" alt="Wesley-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wesley-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Wesley-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Wesley-Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Wesley-Nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
   <img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
 </div>
   
