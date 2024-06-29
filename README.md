@@ -1,6 +1,6 @@
 ### Hi there! I'm Wesley Santana.👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Hello,+everithing+is+fine?;Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Hello,+how+are+you?;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 - 🖥️ Currently working in technical support and network administration.
 - 👨🏾‍💻 Studying and developing small projects with JavaScript, Go, and their respective ecosystems.
