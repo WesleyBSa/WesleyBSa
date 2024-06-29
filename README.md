@@ -1,14 +1,13 @@
-### Oii! Eu sou o Wesley Santana.👋
+### Hi there! I'm Wesley Santana.👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Olá,+tudo+Bem?;Seja+bem+vindo+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Hello,+everithing+is+fine?;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
-- 🖥️ Trabalho atualmente com suporte técnico e administração de redes.
-- 👨🏾‍💻 Estudando e desenvolvendo pequenos projetos com JavaScript, Go e seus respectivos ecossistemas.
-- 📚 Estudante do 4° semestre do curso bacharelado em Sistemas de Informação.
-- 🌐 Desenvolvedor Web.
-- 🎮 Apaixonado por desenvolvimento de games.
+- 🖥️ Currently working in technical support and network administration.
+- 👨🏾‍💻 Studying and developing small projects with JavaScript, Go, and their respective ecosystems.
+- 📚 Fourth-semester student in the Bachelor's degree program in Information Systems.
+- 🌐 Web Developer.
 - 👨🏾‍💻 Stacks: JavaScript/Node.Js/Go Lang/Next.Js/Nest.Js
-- ✉️ Contate-me: batistawesley948@gmail.com
+- ✉️ Contact me: batistawesley948@gmail.com
 
 <div>
   <a href="https://github.com/WesleyBSa">
