@@ -1,4 +1,4 @@
-### Hi there! I'm Wesley Santana.👋
+### Hi there!
 
 - **Freelance Software Developer**, focusing on open-source projects and volunteering as a contributor to [OpenMRS](https://openmrs.org/).
 - Fourth-semester **Information Systems** student with a passion for technology and problem-solving.
