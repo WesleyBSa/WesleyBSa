@@ -1,6 +1,6 @@
 ### Hi there!
 
-- **Software Developer At WRM**, focusing on open-source projects and volunteering as a contributor to [OpenMRS](https://openmrs.org/).
+- **Software Developer At [WRM](https://wrmsistemas.com.br/)**, focusing on open-source projects and volunteering as a contributor to [OpenMRS](https://openmrs.org/).
 - Sixth-semester **Information Systems** student with a passion for technology and problem-solving.
 - Continuously improving my skills in **TypeScript**, **Go**, and various frameworks like **Node.js**, **Next.js**, and **Nest.js**.
 - Feel free to reach out: bsantanawesley@gmail.com
